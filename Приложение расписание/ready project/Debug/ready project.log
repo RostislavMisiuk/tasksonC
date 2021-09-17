@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\ready project\ready project\main.cpp(284,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ready project\ready project\main.cpp(288,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ready project\ready project\main.cpp(292,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ready project\ready project\main.cpp(296,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ready project\ready project\main.cpp(300,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ready project\ready project\main.cpp(304,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ready project\ready project\main.cpp(307,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ready project\ready project\main.cpp(310,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ready project\ready project\main.cpp(313,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ready project\ready project\main.cpp(316,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ready project\ready project\main.cpp(319,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ready project\ready project\main.cpp(439,9): warning C4101: id: неиспользованная локальная переменная
+  ready project.vcxproj -> D:\ready project\Debug\ready project.exe
